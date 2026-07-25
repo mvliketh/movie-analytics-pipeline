@@ -49,7 +49,7 @@ The goal of this project was to analyze trends in the movie industry, including 
 ## 🚀 How to Run the ETL Script
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/mvliketh/movie-analytics-pipeline.git](https://github.com/mvliketh/movie-analytics-pipeline.git)
+   git clone https://github.com/mvliketh/movie-analytics-pipeline.git
 
 ```
 
