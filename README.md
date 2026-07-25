@@ -8,7 +8,7 @@ The goal of this project was to analyze trends in the movie industry, including 
 ---
 
 ## 📊 Tableau Dashboard
-**Interactive Version:** [View the full dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK_HERE)
+**Interactive Version:** [View the full dashboard on Tableau Public](https://public.tableau.com/app/profile/vladyslav.kovalenko8105/viz/movies_17842919827150/MoviesbyGenre?publish=yes)
 
 **Dashboard Screenshot:**
 <img width="1593" height="894" alt="image" src="https://github.com/user-attachments/assets/7af1fa4a-0949-49a0-8962-660c19b75a60" />
